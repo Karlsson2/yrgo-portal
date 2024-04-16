@@ -3,7 +3,7 @@
 .main {
     position: relative;
     .error-div {
-        position: absolute;
+        position: fixed;
         top: 0;
         background: $red;
         border-radius: 20px;
